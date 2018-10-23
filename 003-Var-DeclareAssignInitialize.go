@@ -9,7 +9,11 @@ var y = 33
 // assigns zero value
 var z int
 
+var a string
+
 func main() {
+	a = "This is an example problem"
+	fmt.Println(a)
 	//Declare a variable and assign a value - Short Declaration Operator
 	//only works inside a function body
 	x := 22
