@@ -24,5 +24,5 @@ func main() {
 	fmt.Println("y =", y)
 	fmt.Println("z =", z)
 
-	// 2b. zero values.
+	// 2b. Zero values.
 }
