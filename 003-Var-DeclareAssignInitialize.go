@@ -8,12 +8,15 @@ var y = 33
 //declare var with identifier z and type int
 // assigns zero value
 var z int
-
 var a string
+
+//raw string literals using back quotes
+var b string = `An example of "raw string literals"`
 
 func main() {
 	a = "This is an example problem"
 	fmt.Println(a)
+	fmt.Println(b)
 	//Declare a variable and assign a value - Short Declaration Operator
 	//only works inside a function body
 	x := 22
