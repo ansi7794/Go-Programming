@@ -1,0 +1,22 @@
+// Question:
+// Using the short declaration operator, assign these values to variables
+// with identifiers "x", "y" and "z"
+// a. 42 b. "James Bond" c. true
+// Now print the values stored in this variables
+// a. a single print statement
+// b. multiple print statements
+
+package main
+
+import "fmt"
+
+func main() {
+	x := 42
+	y := "James Bond"
+	z := true
+
+	fmt.Println(x, y, z)
+	fmt.Println(x)
+	fmt.Println(y)
+	fmt.Println(z)
+}
