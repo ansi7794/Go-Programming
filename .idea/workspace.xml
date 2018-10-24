@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bfd05df-63f7-42b3-9e37-2a602c3af025" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Mugiwara-Level2/Exercise3.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mugiwara-Level2/Exercise4.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,25 +20,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="go" value="19" />
+          <entry key="go" value="20" />
           <entry key="md" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Go" value="19" />
+          <entry key="Go" value="20" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="go" value="5688" />
+          <entry key="go" value="5996" />
           <entry key="md" value="231" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Go" value="5688" />
+          <entry key="Go" value="5996" />
           <entry key="PLAIN_TEXT" value="231" />
         </counts>
       </usages-collector>
@@ -55,11 +55,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Mugiwara-Level2/Exercise3.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
               <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Mugiwara-Level2/Exercise4.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="64" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -97,6 +106,7 @@
         <option value="$PROJECT_DIR$/Mugiwara-Level2/Exercise1.go" />
         <option value="$PROJECT_DIR$/Mugiwara-Level2/Exercise2.go" />
         <option value="$PROJECT_DIR$/Mugiwara-Level2/Exercise3.go" />
+        <option value="$PROJECT_DIR$/Mugiwara-Level2/Exercise4.go" />
       </list>
     </option>
   </component>
@@ -154,16 +164,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build Exercise3.go">
-    <configuration name="go build 006-Constants.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="Go-Programming" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/006-Constants.go" />
-      <package value="github.com/ansi7794/Go-Programming" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Go Build.go build Exercise4.go">
     <configuration name="go build 007-BitShiftingWithIota.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go-Programming" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -200,20 +201,29 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
+    <configuration name="go build Exercise4.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go-Programming" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Mugiwara-Level2/Exercise4.go" />
+      <package value="github.com/ansi7794/Go-Programming" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Go Build.go build 006-Constants.go" />
       <item itemvalue="Go Build.go build 007-BitShiftingWithIota.go" />
       <item itemvalue="Go Build.go build Exercise1.go" />
       <item itemvalue="Go Build.go build Exercise2.go" />
       <item itemvalue="Go Build.go build Exercise3.go" />
+      <item itemvalue="Go Build.go build Exercise4.go" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build Exercise4.go" />
         <item itemvalue="Go Build.go build Exercise3.go" />
         <item itemvalue="Go Build.go build Exercise2.go" />
         <item itemvalue="Go Build.go build Exercise1.go" />
         <item itemvalue="Go Build.go build 007-BitShiftingWithIota.go" />
-        <item itemvalue="Go Build.go build 006-Constants.go" />
       </list>
     </recent_temporary>
   </component>
@@ -380,6 +390,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mugiwara-Level2/Exercise4.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="64" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="64" />
         </state>
       </provider>
     </entry>
