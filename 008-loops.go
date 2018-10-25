@@ -36,4 +36,11 @@ func main() {
 		}
 		fmt.Println(x)
 	}
+
+	// for looping ascii
+	i := 33
+	for i < 122 {
+		fmt.Printf("%v\t %#U \n", i, i)
+		i++
+	}
 }
