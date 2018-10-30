@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9bfd05df-63f7-42b3-9e37-2a602c3af025" name="Default Changelist" comment="" />
+    <list default="true" id="9bfd05df-63f7-42b3-9e37-2a602c3af025" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Mugiwara-Level3/Exercise5.go" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,25 +38,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="go" value="32" />
+          <entry key="go" value="34" />
           <entry key="md" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Go" value="32" />
+          <entry key="Go" value="34" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="go" value="8144" />
+          <entry key="go" value="8188" />
           <entry key="md" value="231" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Go" value="8144" />
+          <entry key="Go" value="8188" />
           <entry key="PLAIN_TEXT" value="231" />
         </counts>
       </usages-collector>
@@ -62,11 +64,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Mugiwara-Level3/Exercise3.go">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Mugiwara-Level3/Exercise4.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+            <state relative-caret-position="255">
+              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Mugiwara-Level3/Exercise5.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" />
             </state>
           </provider>
         </entry>
@@ -115,6 +126,8 @@
         <option value="$PROJECT_DIR$/Mugiwara-Level3/Exercise1.go" />
         <option value="$PROJECT_DIR$/Mugiwara-Level3/Exercise2.go" />
         <option value="$PROJECT_DIR$/Mugiwara-Level3/Exercise3.go" />
+        <option value="$PROJECT_DIR$/Mugiwara-Level3/Exercise4.go" />
+        <option value="$PROJECT_DIR$/Mugiwara-Level3/Exercise5.go" />
       </list>
     </option>
   </component>
@@ -172,16 +185,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build Exercise4.go">
-    <configuration name="go build 011-switchexpression.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="Go-Programming" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/011-switchexpression.go" />
-      <package value="github.com/ansi7794/Go-Programming" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Go Build.go build Exercise5.go">
     <configuration name="go build Exercise1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go-Programming" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -218,20 +222,29 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
+    <configuration name="go build Exercise5.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go-Programming" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Mugiwara-Level3/Exercise5.go" />
+      <package value="github.com/ansi7794/Go-Programming" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Go Build.go build 011-switchexpression.go" />
       <item itemvalue="Go Build.go build Exercise1.go" />
       <item itemvalue="Go Build.go build Exercise2.go" />
       <item itemvalue="Go Build.go build Exercise3.go" />
       <item itemvalue="Go Build.go build Exercise4.go" />
+      <item itemvalue="Go Build.go build Exercise5.go" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build Exercise5.go" />
         <item itemvalue="Go Build.go build Exercise4.go" />
         <item itemvalue="Go Build.go build Exercise3.go" />
         <item itemvalue="Go Build.go build Exercise2.go" />
         <item itemvalue="Go Build.go build Exercise1.go" />
-        <item itemvalue="Go Build.go build 011-switchexpression.go" />
       </list>
     </recent_temporary>
   </component>
@@ -453,8 +466,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Mugiwara-Level3/Exercise3.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mugiwara-Level3/Exercise4.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mugiwara-Level3/Exercise5.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
         </state>
       </provider>
     </entry>
