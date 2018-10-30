@@ -175,7 +175,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build 011-switchexpression.go">
+  <component name="RunManager" selected="Go Build.go build Exercise1.go">
     <configuration name="go build 008-loops.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go-Programming" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -212,29 +212,29 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build Exercise5.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build Exercise1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go-Programming" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Mugiwara-Level2/Exercise5.go" />
+      <filePath value="$PROJECT_DIR$/Mugiwara-Level3/Exercise1.go" />
       <package value="github.com/ansi7794/Go-Programming" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Go Build.go build Exercise5.go" />
       <item itemvalue="Go Build.go build 008-loops.go" />
       <item itemvalue="Go Build.go build 009-ifcondition.go" />
       <item itemvalue="Go Build.go build 010-switchstatement.go" />
       <item itemvalue="Go Build.go build 011-switchexpression.go" />
+      <item itemvalue="Go Build.go build Exercise1.go" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build Exercise1.go" />
         <item itemvalue="Go Build.go build 011-switchexpression.go" />
         <item itemvalue="Go Build.go build 010-switchstatement.go" />
         <item itemvalue="Go Build.go build 009-ifcondition.go" />
         <item itemvalue="Go Build.go build 008-loops.go" />
-        <item itemvalue="Go Build.go build Exercise5.go" />
       </list>
     </recent_temporary>
   </component>
