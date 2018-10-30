@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bfd05df-63f7-42b3-9e37-2a602c3af025" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/015-Slicing.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017-Delete.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/016-Appending.go" beforeDir="false" afterPath="$PROJECT_DIR$/016-Appending.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,25 +40,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="go" value="46" />
+          <entry key="go" value="50" />
           <entry key="md" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Go" value="46" />
+          <entry key="Go" value="50" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="go" value="9412" />
+          <entry key="go" value="9505" />
           <entry key="md" value="231" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Go" value="9412" />
+          <entry key="Go" value="9505" />
           <entry key="PLAIN_TEXT" value="231" />
         </counts>
       </usages-collector>
@@ -66,10 +67,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/015-Slicing.go">
+        <entry file="file://$PROJECT_DIR$/017-Delete.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="85">
+              <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -130,6 +131,8 @@
         <option value="$PROJECT_DIR$/SlicesForRange.go" />
         <option value="$PROJECT_DIR$/014-SlicesForRange.go" />
         <option value="$PROJECT_DIR$/015-Slicing.go" />
+        <option value="$PROJECT_DIR$/016-Appending.go" />
+        <option value="$PROJECT_DIR$/017-Delete.go" />
       </list>
     </option>
   </component>
@@ -187,16 +190,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build 016-Appending.go">
-    <configuration name="go build 012-Arrays.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="Go-Programming" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/012-Arrays.go" />
-      <package value="github.com/ansi7794/Go-Programming" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Go Build.go build 017-Delete.go">
     <configuration name="go build 013-Slices.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go-Programming" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -233,33 +227,41 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
+    <configuration name="go build 017-Delete.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go-Programming" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/017-Delete.go" />
+      <package value="github.com/ansi7794/Go-Programming" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Go Build.go build 012-Arrays.go" />
       <item itemvalue="Go Build.go build 013-Slices.go" />
       <item itemvalue="Go Build.go build 014-SlicesForRange.go" />
       <item itemvalue="Go Build.go build 015-Slicing.go" />
       <item itemvalue="Go Build.go build 016-Appending.go" />
+      <item itemvalue="Go Build.go build 017-Delete.go" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build 017-Delete.go" />
         <item itemvalue="Go Build.go build 016-Appending.go" />
         <item itemvalue="Go Build.go build 015-Slicing.go" />
         <item itemvalue="Go Build.go build 014-SlicesForRange.go" />
         <item itemvalue="Go Build.go build 013-Slices.go" />
-        <item itemvalue="Go Build.go build 012-Arrays.go" />
       </list>
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
     <frame x="760" y="0" width="783" height="832" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2724758" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2724758" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32904148" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32904148" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -552,8 +554,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/015-Slicing.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state>
+          <caret selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/016-Appending.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/017-Delete.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
         </state>
       </provider>
     </entry>
