@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bfd05df-63f7-42b3-9e37-2a602c3af025" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/009-ifcondition.go" beforeDir="false" afterPath="$PROJECT_DIR$/009-ifcondition.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010-switchstatement.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,32 +29,35 @@
     <session id="66439242">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="go" value="26" />
+          <entry key="go" value="28" />
           <entry key="md" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Go" value="26" />
+          <entry key="Go" value="28" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="go" value="6961" />
+          <entry key="go" value="7333" />
           <entry key="md" value="231" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Go" value="6961" />
+          <entry key="Go" value="7333" />
           <entry key="PLAIN_TEXT" value="231" />
         </counts>
       </usages-collector>
@@ -62,10 +66,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/009-ifcondition.go">
+        <entry file="file://$PROJECT_DIR$/010-switchstatement.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+            <state relative-caret-position="306">
+              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -109,6 +113,7 @@
         <option value="$PROJECT_DIR$/008-loops.go" />
         <option value="$PROJECT_DIR$/ifcondition.go" />
         <option value="$PROJECT_DIR$/009-ifcondition.go" />
+        <option value="$PROJECT_DIR$/010-switchstatement.go" />
       </list>
     </option>
   </component>
@@ -119,9 +124,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="952" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+    <option name="x" value="950" />
+    <option name="width" value="979" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -166,7 +171,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build 009-ifcondition.go">
+  <component name="RunManager" selected="Go Build.go build 010-switchstatement.go">
     <configuration name="go build 008-loops.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go-Programming" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -185,11 +190,11 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build Exercise3.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 010-switchstatement.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go-Programming" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Mugiwara-Level2/Exercise3.go" />
+      <filePath value="$PROJECT_DIR$/010-switchstatement.go" />
       <package value="github.com/ansi7794/Go-Programming" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
@@ -213,32 +218,32 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Go Build.go build Exercise3.go" />
       <item itemvalue="Go Build.go build Exercise4.go" />
       <item itemvalue="Go Build.go build Exercise5.go" />
       <item itemvalue="Go Build.go build 008-loops.go" />
       <item itemvalue="Go Build.go build 009-ifcondition.go" />
+      <item itemvalue="Go Build.go build 010-switchstatement.go" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build 010-switchstatement.go" />
         <item itemvalue="Go Build.go build 009-ifcondition.go" />
         <item itemvalue="Go Build.go build 008-loops.go" />
         <item itemvalue="Go Build.go build Exercise5.go" />
         <item itemvalue="Go Build.go build Exercise4.go" />
-        <item itemvalue="Go Build.go build Exercise3.go" />
       </list>
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
-    <frame x="762" y="0" width="781" height="830" extended-state="0" />
+    <frame x="760" y="0" width="783" height="832" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25658807" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2724758" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32998565" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32998565" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -350,9 +355,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="232">
           <caret line="41" column="20" lean-forward="true" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
-          <folding>
-            <element signature="e#14#42#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -391,9 +393,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/007-BitShiftingWithIota.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Mugiwara-Level2/Exercise5.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -401,20 +400,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/loops.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ifcondition.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/loops.go" />
+    <entry file="file://$PROJECT_DIR$/ifcondition.go" />
     <entry file="file://$PROJECT_DIR$/008-loops.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-6">
@@ -426,6 +413,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/007-BitShiftingWithIota.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/010-switchstatement.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
         </state>
       </provider>
     </entry>
