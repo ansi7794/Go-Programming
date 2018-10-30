@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bfd05df-63f7-42b3-9e37-2a602c3af025" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/014-SlicesForRange.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/015-Slicing.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,25 +39,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="go" value="44" />
+          <entry key="go" value="46" />
           <entry key="md" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Go" value="44" />
+          <entry key="Go" value="46" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="go" value="9256" />
+          <entry key="go" value="9412" />
           <entry key="md" value="231" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Go" value="9256" />
+          <entry key="Go" value="9412" />
           <entry key="PLAIN_TEXT" value="231" />
         </counts>
       </usages-collector>
@@ -64,20 +65,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/013-Slices.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/014-SlicesForRange.go">
+        <entry file="file://$PROJECT_DIR$/015-Slicing.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+            <state relative-caret-position="187">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -137,6 +129,7 @@
         <option value="$PROJECT_DIR$/013-Slices.go" />
         <option value="$PROJECT_DIR$/SlicesForRange.go" />
         <option value="$PROJECT_DIR$/014-SlicesForRange.go" />
+        <option value="$PROJECT_DIR$/015-Slicing.go" />
       </list>
     </option>
   </component>
@@ -194,7 +187,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build 014-SlicesForRange.go">
+  <component name="RunManager" selected="Go Build.go build 015-Slicing.go">
     <configuration name="go build 012-Arrays.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go-Programming" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -222,11 +215,11 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build Exercise7.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 015-Slicing.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go-Programming" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Mugiwara-Level3/Exercise7.go" />
+      <filePath value="$PROJECT_DIR$/015-Slicing.go" />
       <package value="github.com/ansi7794/Go-Programming" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
@@ -241,19 +234,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Go Build.go build Exercise7.go" />
       <item itemvalue="Go Build.go build Exercise8.go" />
       <item itemvalue="Go Build.go build 012-Arrays.go" />
       <item itemvalue="Go Build.go build 013-Slices.go" />
       <item itemvalue="Go Build.go build 014-SlicesForRange.go" />
+      <item itemvalue="Go Build.go build 015-Slicing.go" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build 015-Slicing.go" />
         <item itemvalue="Go Build.go build 014-SlicesForRange.go" />
         <item itemvalue="Go Build.go build 013-Slices.go" />
         <item itemvalue="Go Build.go build 012-Arrays.go" />
         <item itemvalue="Go Build.go build Exercise8.go" />
-        <item itemvalue="Go Build.go build Exercise7.go" />
       </list>
     </recent_temporary>
   </component>
@@ -546,14 +539,21 @@
     <entry file="file://$PROJECT_DIR$/013-Slices.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <caret line="7" column="19" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="7" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/014-SlicesForRange.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        <state relative-caret-position="102">
+          <caret line="6" column="23" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/015-Slicing.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
