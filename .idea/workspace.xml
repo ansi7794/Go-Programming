@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bfd05df-63f7-42b3-9e37-2a602c3af025" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MakeSlices.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-MakeSlices.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakeSlices.go" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,32 +33,33 @@
           <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="go" value="51" />
+          <entry key="go" value="52" />
           <entry key="md" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Go" value="51" />
+          <entry key="Go" value="52" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="go" value="9673" />
+          <entry key="go" value="9674" />
           <entry key="md" value="231" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Go" value="9673" />
+          <entry key="Go" value="9674" />
           <entry key="PLAIN_TEXT" value="231" />
         </counts>
       </usages-collector>
@@ -64,20 +67,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/017-Delete.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MakeSlices.go">
+        <entry file="file://$PROJECT_DIR$/018-MakeSlices.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="408">
+              <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -141,6 +135,7 @@
         <option value="$PROJECT_DIR$/016-Appending.go" />
         <option value="$PROJECT_DIR$/017-Delete.go" />
         <option value="$PROJECT_DIR$/MakeSlices.go" />
+        <option value="$PROJECT_DIR$/018-MakeSlices.go" />
       </list>
     </option>
   </component>
@@ -152,7 +147,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="950" />
-    <option name="width" value="979" />
+    <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -198,16 +193,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build MakeSlices.go">
-    <configuration name="go build 014-SlicesForRange.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="Go-Programming" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/014-SlicesForRange.go" />
-      <package value="github.com/ansi7794/Go-Programming" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Go Build.go build 018-MakeSlices.go">
     <configuration name="go build 015-Slicing.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go-Programming" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -235,6 +221,15 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
+    <configuration name="go build 018-MakeSlices.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go-Programming" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/018-MakeSlices.go" />
+      <package value="github.com/ansi7794/Go-Programming" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build MakeSlices.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go-Programming" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -245,32 +240,32 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Go Build.go build 014-SlicesForRange.go" />
       <item itemvalue="Go Build.go build 015-Slicing.go" />
       <item itemvalue="Go Build.go build 016-Appending.go" />
       <item itemvalue="Go Build.go build 017-Delete.go" />
       <item itemvalue="Go Build.go build MakeSlices.go" />
+      <item itemvalue="Go Build.go build 018-MakeSlices.go" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build 018-MakeSlices.go" />
         <item itemvalue="Go Build.go build MakeSlices.go" />
         <item itemvalue="Go Build.go build 017-Delete.go" />
         <item itemvalue="Go Build.go build 016-Appending.go" />
         <item itemvalue="Go Build.go build 015-Slicing.go" />
-        <item itemvalue="Go Build.go build 014-SlicesForRange.go" />
       </list>
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
-    <frame x="760" y="0" width="783" height="832" extended-state="0" />
+    <frame x="760" y="0" width="784" height="832" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2724758" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28038675" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32904148" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32904148" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -457,9 +452,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-          <folding>
-            <element signature="e#14#40#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -498,20 +490,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Mugiwara-Level3/Exercis7.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mugiwara-Level3/Exercise7].go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Mugiwara-Level3/Exercis7.go" />
+    <entry file="file://$PROJECT_DIR$/Mugiwara-Level3/Exercise7].go" />
     <entry file="file://$PROJECT_DIR$/Mugiwara-Level3/Exercise7.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -540,13 +520,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SlicesForRange.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/SlicesForRange.go" />
     <entry file="file://$PROJECT_DIR$/013-Slices.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -575,17 +549,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/MakeSlices.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/017-Delete.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MakeSlices.go">
+    <entry file="file://$PROJECT_DIR$/018-MakeSlices.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="408">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
         </state>
       </provider>
     </entry>
